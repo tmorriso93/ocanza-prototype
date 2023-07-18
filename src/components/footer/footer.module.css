@@ -1,0 +1,20 @@
+.container {
+ height: 50px;   
+ font-size: 14px;
+ display: flex;
+ align-items: center;
+ justify-content: space-between;
+ padding: 0 25px;
+}
+
+.social {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    position: relative;
+}
+
+.icon {
+    opacity: 0.6;
+    cursor: pointer;
+}
