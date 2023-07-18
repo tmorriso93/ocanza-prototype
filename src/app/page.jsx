@@ -12,7 +12,7 @@ export default function Home() {
         </h1>
         <p className={styles.desc}>
           Hiking in the great outdoors provides a perfect opportunity to unwind and find relaxation amidst the beauty of nature.
-          we'll unveil hidden trails, share expert tips, and inspire wanderlust for outdoor enthusiasts seeking unforgettable experiences in nature
+          we will unveil hidden trails, share expert tips, and inspire wanderlust for outdoor enthusiasts seeking unforgettable experiences in nature
         </p>
         <Button url="blog" text="Read Our Blogs" />
       </div>
