@@ -9,6 +9,7 @@ const About = () => {
     <div className={styles.container}>
       <div className={styles.imgContainer}>
         <Image src="/banner03.jpg" 
+        alt=''
          fill={true}
          className={styles.img}
          />
