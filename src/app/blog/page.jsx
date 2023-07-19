@@ -6,7 +6,7 @@ import Image from 'next/image'
 
 
 async function getData() {
-  const res = await fetch("https://ocanza-prototype-kq847itdh-tmorriso93.vercel.app/api/posts", {
+  const res = await fetch("ocanza-prototype-beuxxhqm7-tmorriso93.vercel.app/api/posts", {
   
   // const res = await fetch("http://localhost:3000/api/posts", {
     // const res = await fetch(`${process.env.NEXT_PUBLIC_VERCEL_URL}/api/posts`, {
